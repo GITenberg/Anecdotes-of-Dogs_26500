@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32048'
     url: http://www.gutenberg.org/2009/agents/32048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26500#Anecdotes-of-Dogs
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2008-09-01'
 gutenberg_type: Text
