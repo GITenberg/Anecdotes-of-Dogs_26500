@@ -1,0 +1,27 @@
+_repo: Anecdotes-of-Dogs_26500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jesse, Edward
+    birthdate: 1780
+    deathdate: 1868
+    gutenberg_agent_id: '32048'
+    url: http://www.gutenberg.org/2009/agents/32048
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2008-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Dogs -- Folklore'
+title: Anecdotes of Dogs
+url: http://www.gutenberg.org/ebooks/26500
